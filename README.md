@@ -16,7 +16,7 @@ Bikeshare Project
 
 ### Files used
 
-Include the files used
+Files used: chicago.csv, new_york_city.csv, and washington.csv
 
 ### Credits
 
