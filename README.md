@@ -10,7 +10,9 @@ Bikeshare Project
 
 ### Description
 
-Describe what your project is about and what it does
+- Making use of Python to explore data related to bike share systems for three major cities in the U.S - Chicago, New York City and Washington.
+- Import data from csv files and draw interesting insights through computing descriptive statistics.
+- Write script that takes raw input to create an interactive experience in the terminal to present statistics.
 
 ### Files used
 
