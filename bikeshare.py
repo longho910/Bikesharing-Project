@@ -39,7 +39,7 @@ def get_filters():
 
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
     while True:
-        day = input("Enter a day: ")
+        day = input("Which DAY do you want to see?: ")
         if day.casefold() in ['all', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']:
             day = day.lower()
             break
