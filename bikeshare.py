@@ -29,7 +29,7 @@ def get_filters():
 
     # TO DO: get user input for month (all, january, february, ... , june)
     while True:
-        month = input("Enter a month: ")
+        month = input("Which MONTH do you want to see?: ")
         if month.casefold() in ['all', 'january', 'february', 'march', 'april', 'may', 'june']:
             month = month.lower()
             break
